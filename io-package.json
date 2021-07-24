@@ -577,5 +577,6 @@
             },
             "native": {}
         }
-    ]
+    ],
+    "messagebox": true
 }
